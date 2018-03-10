@@ -19,10 +19,6 @@ https://protected-refuge-14535.herokuapp.com/
 
 * [Node.js](https://nodejs.org/en/docs/)
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Joshua Bohde** - *https://github.com/JBohde/friend-finder* - [FriendFinder](https://github.com/JBohde/friend-finder)
